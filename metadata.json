@@ -1,0 +1,6 @@
+{
+  "name": "Cricket Scorer",
+  "description": "Native Android cricket match scoring application with local SQLite storage for EF101-P02.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
